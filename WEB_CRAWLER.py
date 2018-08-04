@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[1]:
+#A Simple webcrawler to extract useful text from a website
 
 
 import requests
